@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Message Display</title>
+</head>
+<body>
+    <h1>欢迎来到我的网页</h1>
+    <p>这是要展示的一段话。它可以是关于您的网站、一个通知、一则消息或任何您想展示的文本。</p>
+</body>
+</html>
